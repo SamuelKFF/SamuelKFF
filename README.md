@@ -8,7 +8,7 @@ Hola!
 
 Mi pasión por la programación me impulsa a estar siempre aprendiendo y mejorando mis habilidades.
 
-Mi [Linkedin](www.linkedin.com/in/martín-samuel-koleff-b0b403263)
+Mi [Linkedin](https://www.linkedin.com/in/martín-samuel-koleff-b0b403263)
 
 ---
 Mis intereses:
