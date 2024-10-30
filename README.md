@@ -1,6 +1,6 @@
 Hola!
 ---
-# Soy Martín Koleff
+# Soy Martín Samuel Koleff
 
 💻 Soy programador  
 📚 Actualmente estoy estudiando en la Universidad Nacional de Santiago del Estero  
